@@ -1,6 +1,6 @@
 # 2025.3.10.
 # 프로젝트2 붓꽃분류기 만들기
-# 이용희 교수님과 열심히 만들어보자
+# fastAPI를 이용한 붓꽃 분류시스템을 차근차근 만들어봄
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
